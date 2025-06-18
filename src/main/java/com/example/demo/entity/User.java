@@ -1,7 +1,7 @@
 package com.example.demo.entity;
 
 import jakarta.persistence.*;
-//khahihi
+//khahihirrrr
 @Entity
 @Table(name = "users")
 public class User extends BaseEntity {
